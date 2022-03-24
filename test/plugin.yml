@@ -1,0 +1,11 @@
+version: 1.0
+name: FirstPlugin
+main: com.wotch.test.mainT
+commands:
+  heal: 
+    aliases: [health]
+    description: Self heal yourself!
+  number:
+  
+  
+  
